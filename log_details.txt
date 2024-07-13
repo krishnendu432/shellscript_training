@@ -1,0 +1,26 @@
+PING google.com (142.250.195.174) 56(84) bytes of data.
+64 bytes from maa03s41-in-f14.1e100.net (142.250.195.174): icmp_seq=1 ttl=54 time=67.4 ms
+64 bytes from maa03s41-in-f14.1e100.net (142.250.195.174): icmp_seq=2 ttl=54 time=63.3 ms
+64 bytes from maa03s41-in-f14.1e100.net (142.250.195.174): icmp_seq=3 ttl=54 time=54.7 ms
+64 bytes from maa03s41-in-f14.1e100.net (142.250.195.174): icmp_seq=4 ttl=54 time=52.1 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3015ms
+rtt min/avg/max/mdev = 52.087/59.346/67.354/6.207 ms
+PING www.google.com (142.250.182.4) 56(84) bytes of data.
+64 bytes from maa05s18-in-f4.1e100.net (142.250.182.4): icmp_seq=1 ttl=54 time=51.5 ms
+64 bytes from maa05s18-in-f4.1e100.net (142.250.182.4): icmp_seq=2 ttl=54 time=76.5 ms
+64 bytes from maa05s18-in-f4.1e100.net (142.250.182.4): icmp_seq=3 ttl=54 time=49.6 ms
+64 bytes from maa05s18-in-f4.1e100.net (142.250.182.4): icmp_seq=4 ttl=54 time=62.8 ms
+
+--- www.google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3021ms
+rtt min/avg/max/mdev = 49.563/60.112/76.535/10.748 ms
+PING gmail.com (142.250.193.165) 56(84) bytes of data.
+64 bytes from maa05s26-in-f5.1e100.net (142.250.193.165): icmp_seq=1 ttl=113 time=47.3 ms
+64 bytes from maa05s26-in-f5.1e100.net (142.250.193.165): icmp_seq=3 ttl=113 time=57.8 ms
+64 bytes from maa05s26-in-f5.1e100.net (142.250.193.165): icmp_seq=4 ttl=113 time=53.1 ms
+
+--- gmail.com ping statistics ---
+4 packets transmitted, 3 received, 25% packet loss, time 3943ms
+rtt min/avg/max/mdev = 47.318/52.737/57.798/4.285 ms

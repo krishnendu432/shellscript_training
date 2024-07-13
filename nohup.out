@@ -1,0 +1,235 @@
++ count=0
++ num=10
++ [[ 0 -le 10 ]]
++ echo 'The increasing number is : 0'
+The increasing number is : 0
++ let count++
++ [[ 1 -le 10 ]]
++ echo 'The increasing number is : 1'
+The increasing number is : 1
++ let count++
++ [[ 2 -le 10 ]]
++ echo 'The increasing number is : 2'
+The increasing number is : 2
++ let count++
++ [[ 3 -le 10 ]]
++ echo 'The increasing number is : 3'
+The increasing number is : 3
++ let count++
++ [[ 4 -le 10 ]]
++ echo 'The increasing number is : 4'
+The increasing number is : 4
++ let count++
++ [[ 5 -le 10 ]]
++ echo 'The increasing number is : 5'
+The increasing number is : 5
++ let count++
++ [[ 6 -le 10 ]]
++ echo 'The increasing number is : 6'
+The increasing number is : 6
++ let count++
++ [[ 7 -le 10 ]]
++ echo 'The increasing number is : 7'
+The increasing number is : 7
++ let count++
++ [[ 8 -le 10 ]]
++ echo 'The increasing number is : 8'
+The increasing number is : 8
++ let count++
++ [[ 9 -le 10 ]]
++ echo 'The increasing number is : 9'
+The increasing number is : 9
++ let count++
++ [[ 10 -le 10 ]]
++ echo 'The increasing number is : 10'
+The increasing number is : 10
++ let count++
++ [[ 11 -le 10 ]]
++ a=10
++ [[ 10 -lt 0 ]]
++ echo 'The decreasing number is: 10.'
+The decreasing number is: 10.
++ let a--
++ [[ 9 -lt 0 ]]
++ echo 'The decreasing number is: 9.'
+The decreasing number is: 9.
++ let a--
++ [[ 8 -lt 0 ]]
++ echo 'The decreasing number is: 8.'
+The decreasing number is: 8.
++ let a--
++ [[ 7 -lt 0 ]]
++ echo 'The decreasing number is: 7.'
+The decreasing number is: 7.
++ let a--
++ [[ 6 -lt 0 ]]
++ echo 'The decreasing number is: 6.'
+The decreasing number is: 6.
++ let a--
++ [[ 5 -lt 0 ]]
++ echo 'The decreasing number is: 5.'
+The decreasing number is: 5.
++ let a--
++ [[ 4 -lt 0 ]]
++ echo 'The decreasing number is: 4.'
+The decreasing number is: 4.
++ let a--
++ [[ 3 -lt 0 ]]
++ echo 'The decreasing number is: 3.'
+The decreasing number is: 3.
++ let a--
++ [[ 2 -lt 0 ]]
++ echo 'The decreasing number is: 2.'
+The decreasing number is: 2.
++ let a--
++ [[ 1 -lt 0 ]]
++ echo 'The decreasing number is: 1.'
+The decreasing number is: 1.
++ let a--
++ [[ 0 -lt 0 ]]
++ echo 'The decreasing number is: 0.'
+The decreasing number is: 0.
++ let a--
++ [[ -1 -lt 0 ]]
+This is the summarize of disk usage the system.
+Filesystem                        Type      Size  Used Avail Use% Mounted on
+udev                              devtmpfs  986M     0  986M   0% /dev
+tmpfs                             tmpfs     207M  1.2M  206M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv ext4       15G  5.6G  8.4G  41% /
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /dev/shm
+tmpfs                             tmpfs     5.3M     0  5.3M   0% /run/lock
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /sys/fs/cgroup
+/dev/loop0                        squashfs   68M   68M     0 100% /snap/core20/2318
+/dev/loop1                        squashfs   53M   53M     0 100% /snap/snapd/18357
+/dev/sda2                         ext4      2.1G  221M  1.7G  12% /boot
+/dev/loop2                        squashfs   41M   41M     0 100% /snap/snapd/21759
+/dev/loop4                        squashfs   67M   67M     0 100% /snap/core20/1828
+/dev/loop3                        squashfs   97M   97M     0 100% /snap/lxd/24061
+tmpfs                             tmpfs     207M     0  207M   0% /run/user/1000
+This is the summarize of disk usage the system.
+Filesystem                        Type      Size  Used Avail Use% Mounted on
+udev                              devtmpfs  986M     0  986M   0% /dev
+tmpfs                             tmpfs     207M  1.2M  206M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv ext4       15G  5.6G  8.4G  41% /
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /dev/shm
+tmpfs                             tmpfs     5.3M     0  5.3M   0% /run/lock
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /sys/fs/cgroup
+/dev/loop0                        squashfs   68M   68M     0 100% /snap/core20/2318
+/dev/loop1                        squashfs   53M   53M     0 100% /snap/snapd/18357
+/dev/sda2                         ext4      2.1G  221M  1.7G  12% /boot
+/dev/loop2                        squashfs   41M   41M     0 100% /snap/snapd/21759
+/dev/loop4                        squashfs   67M   67M     0 100% /snap/core20/1828
+/dev/loop3                        squashfs   97M   97M     0 100% /snap/lxd/24061
+tmpfs                             tmpfs     207M     0  207M   0% /run/user/1000
+This is the summarize of disk usage the system.
+Filesystem                        Type      Size  Used Avail Use% Mounted on
+udev                              devtmpfs  986M     0  986M   0% /dev
+tmpfs                             tmpfs     207M  1.2M  206M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv ext4       15G  5.6G  8.4G  41% /
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /dev/shm
+tmpfs                             tmpfs     5.3M     0  5.3M   0% /run/lock
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /sys/fs/cgroup
+/dev/loop0                        squashfs   68M   68M     0 100% /snap/core20/2318
+/dev/loop1                        squashfs   53M   53M     0 100% /snap/snapd/18357
+/dev/sda2                         ext4      2.1G  221M  1.7G  12% /boot
+/dev/loop2                        squashfs   41M   41M     0 100% /snap/snapd/21759
+/dev/loop4                        squashfs   67M   67M     0 100% /snap/core20/1828
+/dev/loop3                        squashfs   97M   97M     0 100% /snap/lxd/24061
+tmpfs                             tmpfs     207M     0  207M   0% /run/user/1000
+This is the summarize of disk usage the system.
+Filesystem                        Type      Size  Used Avail Use% Mounted on
+udev                              devtmpfs  986M     0  986M   0% /dev
+tmpfs                             tmpfs     207M  1.2M  206M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv ext4       15G  5.6G  8.4G  41% /
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /dev/shm
+tmpfs                             tmpfs     5.3M     0  5.3M   0% /run/lock
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /sys/fs/cgroup
+/dev/loop0                        squashfs   68M   68M     0 100% /snap/core20/2318
+/dev/loop1                        squashfs   53M   53M     0 100% /snap/snapd/18357
+/dev/sda2                         ext4      2.1G  221M  1.7G  12% /boot
+/dev/loop2                        squashfs   41M   41M     0 100% /snap/snapd/21759
+/dev/loop4                        squashfs   67M   67M     0 100% /snap/core20/1828
+/dev/loop3                        squashfs   97M   97M     0 100% /snap/lxd/24061
+tmpfs                             tmpfs     207M     0  207M   0% /run/user/1000
+This is the summarize of disk usage the system.
+Filesystem                        Type      Size  Used Avail Use% Mounted on
+udev                              devtmpfs  986M     0  986M   0% /dev
+tmpfs                             tmpfs     207M  1.2M  206M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv ext4       15G  5.6G  8.4G  41% /
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /dev/shm
+tmpfs                             tmpfs     5.3M     0  5.3M   0% /run/lock
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /sys/fs/cgroup
+/dev/loop0                        squashfs   68M   68M     0 100% /snap/core20/2318
+/dev/loop1                        squashfs   53M   53M     0 100% /snap/snapd/18357
+/dev/sda2                         ext4      2.1G  221M  1.7G  12% /boot
+/dev/loop2                        squashfs   41M   41M     0 100% /snap/snapd/21759
+/dev/loop4                        squashfs   67M   67M     0 100% /snap/core20/1828
+/dev/loop3                        squashfs   97M   97M     0 100% /snap/lxd/24061
+tmpfs                             tmpfs     207M     0  207M   0% /run/user/1000
+This is the summarize of disk usage the system.
+Filesystem                        Type      Size  Used Avail Use% Mounted on
+udev                              devtmpfs  986M     0  986M   0% /dev
+tmpfs                             tmpfs     207M  1.2M  206M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv ext4       15G  5.6G  8.4G  41% /
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /dev/shm
+tmpfs                             tmpfs     5.3M     0  5.3M   0% /run/lock
+tmpfs                             tmpfs     1.1G     0  1.1G   0% /sys/fs/cgroup
+/dev/loop0                        squashfs   68M   68M     0 100% /snap/core20/2318
+/dev/loop1                        squashfs   53M   53M     0 100% /snap/snapd/18357
+/dev/sda2                         ext4      2.1G  221M  1.7G  12% /boot
+/dev/loop2                        squashfs   41M   41M     0 100% /snap/snapd/21759
+/dev/loop4                        squashfs   67M   67M     0 100% /snap/core20/1828
+/dev/loop3                        squashfs   97M   97M     0 100% /snap/lxd/24061
+tmpfs                             tmpfs     207M     0  207M   0% /run/user/1000
++ IFS=' '
++ read id name phone age
++ echo 'ID is: ID.'
+ID is: ID.
++ echo 'Name is: name.'
+Name is: name.
++ echo 'Phone no is: phone.'
+Phone no is: phone.
++ echo 'Age is: age.'
+Age is: age.
++ IFS=' '
++ read id name phone age
++ echo 'ID is: 01.'
+ID is: 01.
++ echo 'Name is: Rohit.'
+Name is: Rohit.
++ echo 'Phone no is: 9564234590.'
+Phone no is: 9564234590.
++ echo 'Age is: 35.'
+Age is: 35.
++ IFS=' '
++ read id name phone age
++ echo 'ID is: 02.'
+ID is: 02.
++ echo 'Name is: Virat.'
+Name is: Virat.
++ echo 'Phone no is: 8734543490.'
+Phone no is: 8734543490.
++ echo 'Age is: 36.'
+Age is: 36.
++ IFS=' '
++ read id name phone age
++ echo 'ID is: 03.'
+ID is: 03.
++ echo 'Name is: Bumraha.'
+Name is: Bumraha.
++ echo 'Phone no is: 8345091223.'
+Phone no is: 8345091223.
++ echo 'Age is: 34.'
+Age is: 34.
++ IFS=' '
++ read id name phone age
++ echo 'ID is: 04.'
+ID is: 04.
++ echo 'Name is: Surya.'
+Name is: Surya.
++ echo 'Phone no is: 7983344321.'
+Phone no is: 7983344321.
++ echo 'Age is: 33.'
+Age is: 33.
++ IFS=' '
++ read id name phone age

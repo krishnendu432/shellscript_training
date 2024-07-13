@@ -1,0 +1,54 @@
+PING www.google.com (142.250.182.36) 56(84) bytes of data.
+64 bytes from maa05s19-in-f4.1e100.net (142.250.182.36): icmp_seq=1 ttl=52 time=53.3 ms
+64 bytes from maa05s19-in-f4.1e100.net (142.250.182.36): icmp_seq=2 ttl=52 time=62.3 ms
+64 bytes from maa05s19-in-f4.1e100.net (142.250.182.36): icmp_seq=3 ttl=52 time=36.6 ms
+64 bytes from maa05s19-in-f4.1e100.net (142.250.182.36): icmp_seq=4 ttl=52 time=77.3 ms
+
+--- www.google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3012ms
+rtt min/avg/max/mdev = 36.603/57.347/77.255/14.728 ms
+PING www.gmail.com (142.250.195.69) 56(84) bytes of data.
+64 bytes from maa03s38-in-f5.1e100.net (142.250.195.69): icmp_seq=1 ttl=111 time=44.0 ms
+64 bytes from maa03s38-in-f5.1e100.net (142.250.195.69): icmp_seq=2 ttl=111 time=49.2 ms
+64 bytes from maa03s38-in-f5.1e100.net (142.250.195.69): icmp_seq=3 ttl=111 time=78.0 ms
+64 bytes from maa03s38-in-f5.1e100.net (142.250.195.69): icmp_seq=4 ttl=111 time=61.1 ms
+
+--- www.gmail.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3013ms
+rtt min/avg/max/mdev = 43.973/58.071/77.990/13.068 ms
+total 136
+-rwxrw-rw- 1 ubuntu ubuntu   53 Jun 20 15:34 pro1.sh
+-rwxr-xr-x 1 ubuntu ubuntu  192 Jun 21 03:35 prog2.sh
+-rwxr-xr-x 1 ubuntu ubuntu  558 Jun 21 04:48 var03.sh
+-rwxr-xr-x 1 ubuntu ubuntu  701 Jun 21 07:26 array_1.sh
+-rwxr-xr-x 1 ubuntu ubuntu  278 Jun 21 10:31 array_2.sh
+-rwxr-xr-x 1 ubuntu ubuntu  635 Jun 21 11:53 string_ops1.sh
+-rwxr-xr-x 1 ubuntu ubuntu  271 Jun 21 12:17 user_input_1.sh
+-rwxr-xr-x 1 ubuntu ubuntu  413 Jun 21 12:54 mathematics.sh
+-rwxr-xr-x 1 ubuntu ubuntu  663 Jun 21 14:43 conditional_1.sh
+-rwxr-xr-x 1 ubuntu ubuntu  594 Jun 21 15:30 conditional_2.sh
+-rwxr-xr-x 1 ubuntu ubuntu  312 Jun 22 05:07 logical_1.sh
+-rwxr-xr-x 1 ubuntu ubuntu  151 Jun 22 06:05 forloop_1.sh
+-rw-rw-r-- 1 ubuntu ubuntu  118 Jun 23 04:08 work
+-rwxr-xr-x 1 ubuntu ubuntu  209 Jun 23 04:35 arraywithforloop.sh
+-rwxr-xr-x 1 ubuntu ubuntu  165 Jun 23 04:36 forloopfile.sh
+-rwxr-xr-x 1 ubuntu ubuntu  287 Jun 23 05:05 whileloop_1.sh
+-rwxr-xr-x 1 ubuntu ubuntu  213 Jun 23 05:28 infinite_while_loop.sh
+-rwxr-xr-x 1 ubuntu ubuntu  100 Jun 23 05:45 infinite_for_loop.sh
+-rwxr-xr-x 1 ubuntu ubuntu  176 Jun 23 06:10 file_read_while.sh
+-rwxr-xr-x 1 ubuntu ubuntu  113 Jun 24 03:59 data.csv
+-rwxr-xr-x 1 ubuntu ubuntu  408 Jun 24 04:04 while_csv1.sh
+-rwxr-xr-x 1 ubuntu ubuntu  240 Jun 24 04:37 function_1.sh
+-rwxr-xr-x 1 ubuntu ubuntu  262 Jun 24 05:38 function_2.sh.save
+-rwxr-xr-x 1 ubuntu ubuntu 1179 Jun 24 06:55 function_2.sh
+-rwxr-xr-x 1 ubuntu ubuntu  457 Jun 25 05:07 function_shift.sh
+-rwxr-xr-x 1 ubuntu ubuntu  182 Jun 25 05:41 continue_statement.sh
+-rwxr-xr-x 1 ubuntu ubuntu  146 Jun 25 06:22 break_statement.sh
+-rwxr-xr-x 1 ubuntu ubuntu  487 Jun 25 06:44 function_arguments.sh
+-rwxr-xr-x 1 ubuntu ubuntu  229 Jun 26 05:00 connectivity_check.sh
+-rw-rw-r-- 1 ubuntu ubuntu    0 Jun 26 06:41 data.txt
+-rwxr-xr-x 1 ubuntu ubuntu  614 Jun 26 06:43 filepath_check.sh
+-rwxr-xr-x 1 ubuntu ubuntu  244 Jun 26 07:12 random_no.sh
+-rwxr-xr-x 1 ubuntu ubuntu  202 Jun 27 04:45 check_UID.sh
+-rw-rw-r-- 1 ubuntu ubuntu 1138 Jun 27 05:14 log_analasis.txt
+-rwxr-xr-x 1 ubuntu ubuntu  231 Jun 27 05:25 redirect_command.sh

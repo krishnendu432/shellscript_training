@@ -1,0 +1,16 @@
+Y
+#!/bin/bash
+# This is a type of function where we will passes the arguments
+echo "Please entemyfunction
+sleep 4s
+
+function avg( )
+{
+	local num1=$1
+	local num2=$2
+	let avg=($num1+$num2)/2
+	echo "Average of the two given value is : $avg."
+}
+avg 8 15
+avg 34 46
+ 
